@@ -1,2 +1,2 @@
 # c-programs
-Collection of simple c programs
+### Collection of simple c programs
