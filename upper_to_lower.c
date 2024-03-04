@@ -14,6 +14,6 @@ int main()
             A[i]+=32;
         }
     }
-    printf("Uppercase string:%s",A);
+    printf("Lowercase string:%s",A);
     return 0;
 }
